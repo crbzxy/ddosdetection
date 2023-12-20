@@ -1,7 +1,7 @@
 from scapy.all import *
 
 # Direcciones IP y puertos para monitorear
-target_ip = "192.168.68.104"
+target_ip = "0.0.0.0"
 target_port = 80
 
 # Lista de últimos X paquetes
